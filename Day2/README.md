@@ -5,7 +5,9 @@ The Stream API is used to process collections of objects. A stream is a sequence
 
 
 The features of Java stream are:
+
 -> A stream is not a data structure instead it takes input from the Collections, Arrays, or I/O channels.
+
 -> Streams don’t change the original data structure, they only provide the result as per the pipelined methods.
 
 Operations On Stream API:
